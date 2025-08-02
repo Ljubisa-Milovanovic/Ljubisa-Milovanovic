@@ -1,20 +1,18 @@
-# Hi 👋, I'm Ljubisa Milovanovic
+<h1 align="center">Zdravo 👋, ja sam Ljubisa Milovanovic</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ljubisa-Milovanovic&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ljubisa-Milovanovic)
 ---
 
-A final-year student specializing in software engineering
+Student završne godine, usmeren na softverski inženjering
 
--🌱 I’m currently learning Unity multiplayer
+- Trenutno učim kako da radim sa Unity multiplayer-om
 
--👯 I’m looking to collaborate on Unity Projects
+- Otvoren sam za saradnju na Unity projektima
 
--📫 How to reach me ljubisam60@gmail.com
+- Možete me kontaktirati na: ljubisam60@gmail.com
 
-Connect with me:
-stefansirkovic
+Jezici i alati:
 
-Languages and Tools:
 ![Languages](https://skillicons.dev/icons?i=github,python,cs,unity,js,html,css,php,c)
+
