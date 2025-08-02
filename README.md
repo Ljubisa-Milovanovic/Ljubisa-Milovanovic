@@ -6,7 +6,7 @@
 
 Student završne godine, usmeren na softverski inženjering
 
-- Trenutno učim kako da radim sa Unity multiplayer-om
+- Trenutno usavršavam rad sa Unity multiplayerom, koristeći Netcode for GameObjects (NGO), Lobby i Relay API-je.
 
 - Otvoren sam za saradnju na Unity projektima
 
