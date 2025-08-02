@@ -1,8 +1,9 @@
 <h1 align="center">Zdravo 👋, ja sam Ljubisa Milovanovic</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ljubisa-Milovanovic&show_icons=true&theme=dark&count_private=true)
+<!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ljubisa-Milovanovic&show_icons=true&theme=dark&count_private=true)
 
 ---
+-->
 
 Student završne godine, usmeren na softverski inženjering
 
