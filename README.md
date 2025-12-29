@@ -11,7 +11,7 @@ Student završne godine, usmeren na softverski inženjering
 
 - Otvoren sam za saradnju na Unity projektima
 
-- Možete me kontaktirati na: ljubisam60@gmail.com
+- Možete me kontaktirati na: milovanovic343@gmail.com
 
 Jezici i alati:
 
